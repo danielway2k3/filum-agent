@@ -1,0 +1,122 @@
+[
+  {
+    "feature_id": "VOC_001",
+    "feature_name": "Automated Post-Interaction Surveys",
+    "product_category": "Voice of Customer - Surveys",
+    "description": "Allows designing and automatically deploying surveys via Email, SMS, Zalo after a customer completes a purchase or interaction.",
+    "keywords": ["survey", "feedback", "post-purchase", "transaction", "automation", "NPS", "CSAT", "CES"],
+    "associated_pain_points": [
+      "We're struggling to collect customer feedback consistently after a purchase.",
+      "Our survey response rates are very low.",
+      "The manual process for sending feedback forms is too slow."
+    ]
+  },
+  {
+    "feature_id": "AIS_001",
+    "feature_name": "AI Agent for FAQ & First Response",
+    "product_category": "AI Customer Service - AI Inbox",
+    "description": "An AI-powered agent that automatically answers common and repetitive questions, deflecting them from human agents.",
+    "keywords": ["chatbot", "ai agent", "faq", "repetitive questions", "automation", "deflection", "overload"],
+    "associated_pain_points": [
+      "Our support agents are overwhelmed by the high volume of repetitive questions.",
+      "Customers have to wait too long for simple answers.",
+      "Hiring more agents is too expensive."
+    ]
+  },
+  {
+    "feature_id": "INS_001",
+    "feature_name": "Customer Journey Experience Analysis",
+    "product_category": "Insights - Experience",
+    "description": "Analyzes feedback and operational data across all defined touchpoints to pinpoint sources of customer frustration or delight.",
+    "keywords": ["customer journey", "touchpoint", "friction", "root cause", "frustration"],
+    "associated_pain_points": [
+      "We have no clear idea which customer touchpoints are causing the most frustration.",
+      "We don't know where to invest to improve the customer experience.",
+      "When a problem happens, we don't know which stage of the process caused it."
+    ]
+  },
+  {
+    "feature_id": "C360_001",
+    "feature_name": "Unified Customer Profile & Interaction History",
+    "product_category": "Customer 360 - Customers",
+    "description": "Consolidates all touchpoints, past interactions, and feedback from a single customer into one comprehensive profile.",
+    "keywords": ["customer 360", "single view", "history", "profile", "holistic view"],
+    "associated_pain_points": [
+      "It's difficult to get a single view of a customer's interaction history when they contact us.",
+      "Our agents don't have enough context when talking to customers.",
+      "Customer data is scattered across different systems."
+    ]
+  },
+  {
+    "feature_id": "INS_002",
+    "feature_name": "AI-Powered Topic & Sentiment Analysis",
+    "product_category": "Insights - Experience",
+    "description": "Automatically reads through thousands of open-ended responses (from surveys, chats, reviews) to extract key topics and sentiment (positive, neutral, negative).",
+    "keywords": ["topic modeling", "sentiment analysis", "text analytics", "open-ended", "themes"],
+    "associated_pain_points": [
+      "Manually analyzing thousands of open-ended survey responses for common themes is too time-consuming.",
+      "We collect a lot of text feedback but don't know what it's about.",
+      "We can't quickly identify the main reasons for customer dissatisfaction."
+    ]
+  },
+  {
+    "feature_id": "VOC_002",
+    "feature_name": "Multi-Platform Review Aggregation",
+    "product_category": "Voice of Customer - Reviews",
+    "description": "Automatically gathers all public customer reviews from various platforms like Google, Facebook, and e-commerce sites into a single dashboard.",
+    "keywords": ["reviews", "ratings", "aggregation", "google reviews", "facebook reviews", "e-commerce"],
+    "associated_pain_points": [
+      "We get customer reviews on many platforms and it's hard to track them all.",
+      "We might be missing negative reviews posted on different sites.",
+      "It's difficult to see our overall rating across all channels."
+    ]
+  },
+  {
+    "feature_id": "AIS_002",
+    "feature_name": "Real-time Agent Assistance",
+    "product_category": "AI Customer Service - AI Inbox",
+    "description": "Provides real-time response suggestions and knowledge base articles to human agents directly within their inbox during customer conversations.",
+    "keywords": ["agent assist", "suggestions", "consistency", "training", "onboarding", "real-time"],
+    "associated_pain_points": [
+      "New agents often respond to customers slowly and inconsistently.",
+      "Our agents struggle to find the right information while on a call or chat.",
+      "Training new support staff takes a lot of time."
+    ]
+  },
+  {
+    "feature_id": "INS_003",
+    "feature_name": "Contact Center Performance Monitoring",
+    "product_category": "Insights - Operation",
+    "description": "Provides dashboards and reports on key operational metrics like First Response Time (FRT), Average Handle Time (AHT), and CSAT scores per agent.",
+    "keywords": ["kpi", "dashboard", "reporting", "performance", "metrics", "operations", "contact center"],
+    "associated_pain_points": [
+      "We have no objective way to measure the performance of our support team.",
+      "We can't identify which agents are top performers and who needs more training.",
+      "We don't know if we are meeting our service level agreements (SLAs)."
+    ]
+  },
+  {
+    "feature_id": "C360_002",
+    "feature_name": "Dynamic Customer Segmentation & Engagement",
+    "product_category": "Customer 360 - Customers & Engagement",
+    "description": "Uses unified customer data to create dynamic segments (e.g., VIPs, churn risks, new customers) to run targeted engagement campaigns via email, SMS, or Zalo.",
+    "keywords": ["segmentation", "engagement", "campaigns", "targeting", "personalization", "churn risk", "vip"],
+    "associated_pain_points": [
+      "It's hard for us to classify customers, like VIPs or churn risks, to run separate care campaigns.",
+      "Our marketing messages are generic and not personalized.",
+      "We want to proactively re-engage customers who haven't purchased in a while."
+    ]
+  },
+  {
+    "feature_id": "AIS_003",
+    "feature_name": "Unified Ticketing System",
+    "product_category": "AI Customer Service - Tickets",
+    "description": "Converts every customer request from any channel (email, chat, social media) into a trackable ticket with a clear owner and status.",
+    "keywords": ["ticketing", "helpdesk", "case management", "issue tracking", "sla"],
+    "associated_pain_points": [
+      "Customer requests from email, chat, or Facebook are often missed or no one is responsible.",
+      "There's no clear way to track the status of a customer's problem.",
+      "Two agents sometimes work on the same issue without knowing."
+    ]
+  }
+]
