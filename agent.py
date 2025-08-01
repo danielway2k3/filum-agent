@@ -80,7 +80,7 @@ class PainPointAgent:
         similarity = cosine_similarity(pain_point_embedding, feature_embedding)[0][0]
         return float(
             max(0, similarity)
-        )  # Convert to Python float for JSON serialization
+        ) 
 
     def find_solutions(self, user_input, k=5):
         """Find solutions that match user's pain points"""
@@ -88,7 +88,7 @@ class PainPointAgent:
         pain_point = user_input.get("pain_point_description", "")
         normalized_pain_point = normalize_text(pain_point)
 
-        # Create embedding for pain point (only user input needs real-time embedding)
+        # Create embedding for pain point
         pain_point_embedding = self.model.encode(pain_point)
 
         solutions = []
